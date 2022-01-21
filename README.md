@@ -5,4 +5,4 @@ To run, execute main.py, with the "graph animations" directory set as the source
 
 The code isn't written to be particularly reusable, but some parts might be suitable for use somewhere else. If you intend to use any of the code here, note the comment at line 96 of main.py --- to check if two arcs are equal, the program simply checks if they're close at some points along the arc. This works for how the arcs are used in this project specifically, but might fail for other use cases.
 
-
+A pdf in the top-level directory contains a more formal proof of a slightly more general statement, from the same practical as the video.
